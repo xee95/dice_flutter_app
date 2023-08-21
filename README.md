@@ -21,5 +21,7 @@ Throughout this project, I had the opportunity to learn and apply various progra
 - Enhancing user interaction through gesture controls.
 
 Dicee is not just an app; it's a testament to my growing programming skills. With this foundation, I'm ready to tackle even more exciting app development projects! 🎲🚀
+
+
 <img src=
-"![ezgif-4-e2c9fe3606](https://github.com/xee95/dice_flutter_app/assets/35934083/b4ec6775-234e-4dc8-88ab-72dd763097f0)" width="300" height="200">
+"![ezgif-4-e2c9fe3606](https://github.com/xee95/dice_flutter_app/assets/35934083/b4ec6775-234e-4dc8-88ab-72dd763097f0)" width="200" height="800">

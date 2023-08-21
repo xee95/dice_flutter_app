@@ -5,7 +5,7 @@ Welcome to Dicee, a Flutter project where I applied my programming skills to cre
 
 ## What I Built
 I've developed a Las Vegas-style dice app that's always ready to roll the dice at a tap of a button. With this app in my pocket, I can settle any score or make decisions on the fly!
-![ezgif-4-e2c9fe3606](https://github.com/xee95/dice_flutter_app/assets/35934083/b4ec6775-234e-4dc8-88ab-72dd763097f0)
+
 
 ## What I Learned
 Throughout this project, I had the opportunity to learn and apply various programming concepts, including:
@@ -21,3 +21,5 @@ Throughout this project, I had the opportunity to learn and apply various progra
 - Enhancing user interaction through gesture controls.
 
 Dicee is not just an app; it's a testament to my growing programming skills. With this foundation, I'm ready to tackle even more exciting app development projects! 🎲🚀
+<img src=
+"![ezgif-4-e2c9fe3606](https://github.com/xee95/dice_flutter_app/assets/35934083/b4ec6775-234e-4dc8-88ab-72dd763097f0)" width="300" height="200">

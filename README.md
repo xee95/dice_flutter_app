@@ -24,4 +24,4 @@ Dicee is not just an app; it's a testament to my growing programming skills. Wit
 
 
 <img src=
-"![ezgif-4-e2c9fe3606](https://github.com/xee95/dice_flutter_app/assets/35934083/b4ec6775-234e-4dc8-88ab-72dd763097f0)" width="200" height="800">
+"https://github.com/xee95/dice_flutter_app/assets/35934083/b4ec6775-234e-4dc8-88ab-72dd763097f0" width="200" height="500">

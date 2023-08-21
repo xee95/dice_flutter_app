@@ -45,6 +45,13 @@ class _DicePageState extends State<DicePage> {
             child: Padding(
               padding: const EdgeInsets.all(0.0),
               child: TextButton(
+                style: TextButton.styleFrom(
+                  // Set the background color to transparent when pressed
+                  backgroundColor: Colors.transparent,
+                  primary: Colors.transparent, disabledForegroundColor: Colors.transparent.withOpacity(0.38),
+                  // Set the splash color to transparent when pressed
+                  splashFactory: NoSplash.splashFactory,
+                ),
                 onPressed: () {
                   setState(() {
                     changeDice();
@@ -60,6 +67,13 @@ class _DicePageState extends State<DicePage> {
             child: Padding(
               padding: const EdgeInsets.all(0.0),
               child: TextButton(
+                style: TextButton.styleFrom(
+                  // Set the background color to transparent when pressed
+                  backgroundColor: Colors.transparent,
+                  primary: Colors.transparent, disabledForegroundColor: Colors.transparent.withOpacity(0.38),
+                  // Set the splash color to transparent when pressed
+                  splashFactory: NoSplash.splashFactory,
+                ),
                 onPressed: () {
                   setState(() {
                     changeDice();
